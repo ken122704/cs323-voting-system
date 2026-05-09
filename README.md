@@ -57,3 +57,9 @@ I analyzed the behavior of the system under simulated failure states. By disabli
 ### Carlos Jorge Gamale
 
 Working with edge computing simulation showed me the complexity of coordinating distributed sources. Each of our edge nodes operated independently with random delays, mimicking real-world user activity. I realized that while edge computing reduces the immediate processing load on the server, it requires a robust cloud infrastructure to handle the synchronization and storage of data arriving at different speeds and times.
+
+## System Demo
+
+A short demonstration of the Distributed Voting System in action.
+
+▶️ [Watch Demo Video](./demo.mp4)
