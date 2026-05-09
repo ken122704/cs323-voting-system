@@ -1,16 +1,3 @@
-# Google Cloud Credentials
 gcp-key.json
-gcp-key.json.json
-
-# Python virtual environments
 venv/
-.venv/
-env/
-
-# Python cache
 __pycache__/
-*.py[cod]
-
-# OS specific files
-.DS_Store
-Thumbs.db
