@@ -62,4 +62,4 @@ Working with edge computing simulation showed me the complexity of coordinating 
 
 A short demonstration of the Distributed Voting System in action.
 
-▶️ [Watch Demo Video](./demo.mp4)
+▶️ [Donwload MP4 file to watch demo video](./demo.mp4)
